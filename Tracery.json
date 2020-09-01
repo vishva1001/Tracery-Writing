@@ -1,0 +1,254 @@
+{
+  "origin": ["#storySetup# [hero:#pronoun1#]#story1#. #story2.capitalize#. #story3.capitalize#. #story4.capitalize#. #story5.capitalize#."],
+  "storySetup": ["[pronoun1:I][verb:was][pronoun2:myself][pronoun3:my]", "[pronoun1:you][verb:were][pronoun2:yourself][pronoun3:your]","[pronoun1:he][verb:was][pronoun2:himself][pronoun3:his]", "[pronoun1:she][verb:was][pronoun2:herself][pronoun3:her]", "[pronoun1:they][verb:were][pronoun2:themselves][pronoun3:their]","[pronoun1:we][verb:were][pronoun2:ourselves][pronoun3:our]","[activity:danced][l6:The music was]","[activity:kissed a boy][l6:His lips were]","[activity:won something][l6:The taste of victory was]","[activity:saw her][l6:She looked]","[activity:tasted a peach][l6:The juice was]","[activity:worked #pronoun2# too hard][l6:The exhaustion was]","[activity:met #pronoun3# father][l6:The old man was]","[activity:saw Paris][l6:The streets were]","[activity:ran away][l6:The thrill of escaping was]"
+  ],
+  "story1": [
+    "#hero.capitalize# #verb# #age# #adjective2# the #time_adjective# time #hero# #activity#",
+    "#hero.capitalize# #verb# #age#, just, the #time_adjective# time #hero# #activity#",
+    "#hero.capitalize# #verb# #age_adjective# #age# the #time_adjective# time #hero# #activity#"
+  ],
+  "pronoun1": [
+    "I",
+    "you",
+    "he",
+    
+    "she",
+    "we",
+    "they"
+  ],
+  "verb": [
+    "was",
+    "were"
+  ],
+  "age_adjective": [
+    "barely",
+    "only",
+    "glorious",
+    ""
+  ],
+  "age": [
+    "eight",
+    "eight and a half",
+    "nine",
+    "ten",
+    "ten and a summer",
+    "eleven",
+    "twelve",
+    "thirteen",
+    "fourteen",
+    "sixteen",
+    "eighteen",
+    "twenty",
+    "twenty-one",
+    "thirty",
+    "forty",
+    "sixty",
+    "ninety"
+  ],
+  "adjective2": [
+    " and quiet",
+    " and lonely",
+    " and miserable",
+    " and loving",
+    ""
+  ],
+  "time_adjective": [
+    "last",
+    "next",
+    "only",
+    "first"
+  ],
+  "pronoun2": [
+    "myself",
+    "yourself",
+    "himself",
+    "herself",
+    "themselves",
+    "ourselves"
+  ],
+  "pronoun3": [
+    "my",
+    "your",
+    "his",
+    "her",
+    "our",
+    "their"
+  ],
+  "activity": [
+    "danced",
+    "won something",
+    "kissed a boy",
+    "saw her",
+    "tasted a peach",
+    "worked #pronoun2# too hard",
+    "met #pronoun3# father",
+    "saw paris",
+    "ran away"
+  ],
+  "story2": [
+    "#l1#, #l2#, #conj# #hero# #verb1# the air was #l3#",
+    "#l1#, #l2#, #conj# #hero# wished the air were #l3#",
+    "#l1#, #l2#, and the air was #l3#",
+    "#l4#, and the air was #l3#",
+    "#l1#, #conj# #hero# #verb1# the air was #l3#"
+  ],
+  "l1": [
+    "There were clear blue skies",
+    "Heavy #l5# fell",
+    "#l5# fell"
+  ],
+  "l4" : [
+    "Only a #l2# wisp of cloud was in the sky",
+    "#l2# wispy clouds curled in the sky",
+    "#l2# fluffy clouds rolled",
+    "Grey clouds, #l2#, whirled above",
+    "Stormy clouds, #l2, scudded",
+    "Dark clouds threatened #l2# weather",
+    "Sprinkles of #l2# #l5# were falling",
+    "A #l2# storm was raging"
+  ],
+  "l5" : [
+    "sleet",
+    "hail",
+    "snow",
+    "rain"
+  ],
+  "l2": [
+    "achingly beautiful",
+    "magnificent",
+    "marvelous",
+    "lovely",
+    "drab",
+    "lovely",
+    "dismal"
+  ],
+  "conj" : [
+    "and",
+    "but"
+  ],
+  "verb1" : [
+    "felt",
+    "thought",
+    "imagined",
+    "worried that",
+    "didn't even notice"
+  ],
+  "l3": [
+    "deathly cold",
+    "bitter cold",
+    "icy",
+    "frigid",
+    "cold",
+    "chilly",
+    "skin-warm",
+    "warm",
+    "warmer than usual",
+    "hot",
+    "burning hot"
+  ],
+  "story3": [
+    "#l6# #adj1#, #w1#, #conj# #w2#.",
+    "#l6# #adj1#, #w1#, #w3#."
+  ],
+  "l6" : [
+    "The music was",
+    "His lips were",
+    "The thrill of escaping was",
+    "The juice was",
+    "The taste of victory was",
+    "The exhaustion was",
+    "She looked",
+    "The streets were",
+    "The old man was"
+  ],
+  "adj1": [
+    "amazing",
+    "like a dream",
+    "nothing like #hero#'d imagined",
+    "alive",
+    "weird",
+    "unsettling",
+    "terrifying",
+    "nice, #hero# supposed"
+  ],
+  "w1": [
+    "yeah",
+    "kinda",
+    "or something",
+    "maybe",
+    "really",
+    "true",
+    "powerful",
+    "fundamental"
+  ],
+  "w2":[
+    "this sucked",
+    "this sucked",
+    "this was not cool",
+    "this wasn't going to work",
+    "this wasn't going well"
+  ],
+  "w3":[
+    "and this felt unsettling",
+    "and this was kinda cool",
+    "and this was everything #hero#'d wanted"
+  ],
+  "story4":[
+    "#adj_time1.capitalize# #time2.s# later #hero# #a1#. #hero.capitalize# #a2#.",
+    "#time2.s.capitalize# later #hero# #a1#. #hero.capitalize# #a2#.",
+    "One #adj_time1# #time2# later #hero# #a1#. #hero.capitalize# #a2#.",
+    "A few #adj_time1# #time2.s# later #hero# #a1#. #hero.capitalize# #a2#."
+  ],
+  "adj_time1" : [
+    "long",
+    "tense",
+    "giddy",
+    "weird",
+    "contented"
+  ],
+  "time2" : [
+    "second",
+    "minute",
+    "moment",
+    "hour",
+    "day",
+    "week",
+    "month",
+    "year"
+  ],
+  "a1" : [
+    "tried to forget",
+    "'d completely forgotten",
+    "#pronoun2 moving away",
+    "shook it off",
+    "couldn't stop replaying",
+    "'d almost forgotten",
+    "barely remembered",
+    "still dimly remembered",
+    "still remembered",
+    "had never forgotten",
+    "#pronoun2# becoming obsessed"
+  ],
+  "a2" : [
+    "screamed",
+    "fidgeted",
+    "cringed",
+    "confessed",
+    "turned away",
+    "decided",
+    "smiled",
+    "laughed"
+  ],
+  "story5" : [
+    "alone",
+    "enemies",
+    "opposites",
+    "so far away",
+    "oh well",
+    "almost there",
+    "didn't make it",
+    "so close",
+    "together",
+    "perfect"
+  ]
+}
